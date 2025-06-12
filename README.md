@@ -28,6 +28,6 @@ Full-stack web application combining real-time chat, AI assistance, and blockcha
 ## Installation
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/Svetoslav-1/multi-user-ai-interface.git
+```bash[
+https://github.com/Svetoslav-1/Multi-user-AI-Interface-with-Blockchain-Intgeration.git
 cd multi-user-ai-interface
