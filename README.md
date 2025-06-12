@@ -165,7 +165,7 @@ Check browser console: Press F12 to see frontend errors
 Monitor server logs: Watch the terminal where you ran npm run dev
 Test locally first: Use multiple browser tabs before testing network access
 Clear browser cache: If you see old versions of the app
-
+```
 Project Structure
 Multi-user-AI-Interface-with-Blockchain-Integration/
 ├── server.js                    # Main backend server
@@ -188,6 +188,7 @@ Multi-user-AI-Interface-with-Blockchain-Integration/
         ├── reportWebVitals.js   # Performance monitoring
         ├── BlockchainVerification.js  # Blockchain verification component
         └── BlockchainVerification.css # Verification styling
+```
 Available Scripts
 bash# Development (runs both frontend and backend)
 ```
