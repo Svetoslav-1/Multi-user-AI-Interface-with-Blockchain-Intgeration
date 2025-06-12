@@ -38,8 +38,9 @@ cd Multi-user-AI-Interface-with-Blockchain-Integration
 ```
 
 # Install backend dependencies
+```
 npm install
-
+```
 # Install frontend dependencies
 ```
 cd client
