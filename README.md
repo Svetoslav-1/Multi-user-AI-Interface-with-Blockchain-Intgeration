@@ -29,5 +29,5 @@ Full-stack web application combining real-time chat, AI assistance, and blockcha
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/multi-user-ai-interface.git
+git clone https://github.com/Svetoslav-1/multi-user-ai-interface.git
 cd multi-user-ai-interface
