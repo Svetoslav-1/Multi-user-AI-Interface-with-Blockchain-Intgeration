@@ -239,13 +239,6 @@ Enable HTTPS in production environments
 Validate all user inputs on both client and server
 Implement rate limiting for production deployments
 
-Contributing
-
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
 
 Acknowledgments
 
